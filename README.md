@@ -8,9 +8,7 @@
   
 txt加载文件格式：前五行给出的命名唯一，前缀名字  
 后续分别为 当前状态，当前量，转移为的状态，变为的量，移动方向  
-  
-若有问题请加qq:1337675840   
-  
+
 This program was developed by my sophomore year in order to solve the calculation theory homework. The development time is one day, and the follow-up is minor adjustments. This is the forth file upload, and it should be the final version.  
 Development time: 2020.12.30, 12:30-20.12.31, 1:00  
 Current time: 2021.1.2, 13:14 hahaha this is a good time  
@@ -20,4 +18,3 @@ The source code of the program is badly named, and the logic is a little messy
 txt loading file format: the name given in the first five lines is unique, prefix name  
 The following are the current state, the current amount, the state transitioned to, the amount changed, and the moving direction  
   
-If you have any questions, please add qq:1337675840  
